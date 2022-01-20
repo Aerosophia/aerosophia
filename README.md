@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aerosophia
-- 👀 I’m interested in EVERYTHING
-- 🌱 I’m currently learning Responsive Web
+- 👀 I’m interested in EVERYTHING 
+- 🌱 I’m currently learning RWD
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me: EVERYWHERE
 
