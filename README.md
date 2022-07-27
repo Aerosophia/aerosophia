@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aerosophia
 - 👀 I’m interested in EVERYTHING 
-- 🌱 I’m currently learning RWD
+- 🌱 I’m currently learning DS skills
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me: EVERYWHERE
 
